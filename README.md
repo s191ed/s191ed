@@ -2,7 +2,7 @@
 - arr3.ml
 - arr3.gq
 - wtaetrewsateshdewf
-- 📫 How to reach me ... you cant idiot
+- 📫 How to reach me ... you dont
 
 <!---
 s191ed/s191ed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
